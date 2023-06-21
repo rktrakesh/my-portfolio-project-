@@ -15,10 +15,10 @@ const Footer = () => {
           logic, maintenance, and ensuring high performance and responsiveness.
         </p>
         <div className="flex justify-between items-center w-[20%] mx-auto">
-          <FaTwitter />
-          <FaInstagram />
-          <FaGithub />
-          <BsFacebook />
+          <FaTwitter className="hover:scale-150 duration-300" />
+          <FaInstagram className="hover:scale-150 duration-300" />
+          <FaGithub className="hover:scale-150 duration-300" />
+          <BsFacebook className="hover:scale-150 duration-300" />
         </div>
       </div>
     </div>

@@ -16,7 +16,7 @@ const Heading = () => {
         </p>
         <Typed
           className="font-bold text-orange-600 md:text-lg lg:text-xl text-sm py-3"
-          strings={["React JS", "tailwind css", "VS code"]}
+          strings={["React JS.", "tailwind CSS.", "VS code."]}
           typeSpeed={70}
           backSpeed={50}
           loop
